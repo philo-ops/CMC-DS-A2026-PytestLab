@@ -1,4 +1,5 @@
 # Open source practice
+[![](https://github.com/philo-ops/functional-python/workflows/tests/badge.svg)](https://github.com/philo-ops/functional-python/actions?query=workflow%3Atests)
 
 In this lab you will walk through the basic procedure for creating and contributing to an open source project.
 
